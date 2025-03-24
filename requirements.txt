@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_core
+streamlit
+langchain_groq
+langchain_google_genai
+pypdf
+langchain_objectbox
+bs4
+faiss-cpu
+python-dotenv
